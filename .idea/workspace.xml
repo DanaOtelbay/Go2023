@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c1b2eba-707c-47f4-b95c-acd3229e43a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/emmission.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/money-transfer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/гашение.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/controllers/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/controllers/PingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/controllers/RedemptionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/controllers/RevolverController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/controllers/TransactionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/controllers/WalletsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/filters/JwtAuthenticator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/models/requests/RedemptionRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/models/responses/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/models/responses/RedemptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/models/responses/TokenResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/models/responses/TransactionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/models/responses/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/models/responses/WalletDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/routers/RouterFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/utilities/Jwt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/api/utilities/MapConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/AgentStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/AgentType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/Balance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/Currency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/EmIssuer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/EmsAgent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/RpOrders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/TransactionStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/TransactionType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/TxError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/TxStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/Wallet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/models/database/caching/UserCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/services/MoneyTransferWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/ems/services/WalletLimitValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/HttpController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/dataaccess/PostgreSQLDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/http/ContentTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/http/HttpHeaders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/http/HttpStatusCodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/response/models/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/response/models/ResponseReturned.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/routing/Endpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/routing/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/routing/FilterNotPassException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/routing/Middleware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/routing/Router.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/utilities/ErrorHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/utilities/HexadecimalConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/utilities/Json.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/gitlab/pavelagp/rester/utilities/OffsetDateTimeConverter.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/lib/go-1.18" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2VNHkohJ30dxfWS6IW6T7C2wizS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/home/dana"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
